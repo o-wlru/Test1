@@ -12,8 +12,6 @@ public class Employee {
     private int department;
     private float salary;
 
-
-
     public Employee(String secondName, String firstName, String patronymic, int department, float salary) {
         this.firstName = firstName;
         this.patronymic = patronymic;
