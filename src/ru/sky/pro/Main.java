@@ -14,10 +14,6 @@ public class Main {
         System.out.println("Сотрудник с максимальной заработной платой: " + findEmployeeSalaryMax());
         System.out.println("Средняя заработная плата: " + countAverageSalary());
         printFullNames();
-
-
-
-
     }
 
     public static void printEmployees() {
